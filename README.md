@@ -2,7 +2,5 @@
 This is first line in this repo
 
 
-## Ipsum below
-Hipster Ipsum website content
-
-Adding more Ipsum
+## Site contents
+1. index.html
